@@ -159,6 +159,8 @@ The project includes a fully interactive **KPI Dashboard** built in Microsoft Ex
 3. Use the **Team** and **TYPE** slicers on the left to filter all charts interactively
 
 ---
+### Dashboard Screenshot
+![alt text](Dashboard_screenshot.png)
 
 
 
